@@ -14,3 +14,7 @@ for a in mylist:
     count = count + a
 print count
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
